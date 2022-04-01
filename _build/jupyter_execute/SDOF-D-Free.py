@@ -61,3 +61,15 @@ for ti in t:
 plt.plot(t,X)
 plt.show()
 
+
+# In[6]:
+
+
+print(X)
+
+
+# In[ ]:
+
+
+
+

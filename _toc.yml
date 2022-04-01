@@ -7,3 +7,8 @@ chapters:
 - file: SDOF-UD-Free
 - file: SDOF-D-Free
 - file: LogDecMethod
+- file: NewmarkBetaFree
+- file: ResponseSpectra
+- file: SpectralScaling
+- file: Elasto-PlasticSystem
+- file: ConstantDuctilityResponseSpectrum
